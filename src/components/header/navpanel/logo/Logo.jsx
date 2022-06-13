@@ -1,5 +1,5 @@
 import React from "react";
-import {ReactComponent as GMLogo} from "../../assets/svg/GUNMARKET.svg";
+import {ReactComponent as GMLogo} from "../../../../assets/svg/GUNMARKET.svg";
 
 export default function Logo() {
 

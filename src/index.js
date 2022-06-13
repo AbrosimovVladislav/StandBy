@@ -9,10 +9,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-toastify/dist/ReactToastify.css';
 
 import './components/header/header.scss';
-import './components/header/topbar.scss';
-import './components/header/nav-panel.scss';
-import './components/header/logo.scss';
-import './components/header/menu.scss';
+import './components/header/topbar/topbar.scss';
+import './components/header/navpanel/nav-panel.scss';
+import './components/header/navpanel/logo/logo.scss';
+import './components/header/navpanel/menu/menu.scss';
 import './variables/variables.scss';
 
 import './App.scss';

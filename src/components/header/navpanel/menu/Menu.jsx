@@ -1,7 +1,7 @@
 import React from "react";
-import {ReactComponent as ArrowDown} from "../../assets/svg/menu__arrowdown.svg";
+import {ReactComponent as ArrowDown} from "../../../../assets/svg/menu__arrowdown.svg";
 import {useSelector} from "react-redux";
-import {localUIUrl} from "../../variables/network";
+import {localUIUrl} from "../../../../variables/network";
 import {toast} from "react-toastify";
 
 export default function Menu() {

@@ -1,7 +1,7 @@
 import React from "react";
 import {toast, ToastContainer} from "react-toastify";
-import Logo from "./Logo";
-import Menu from "./Menu";
+import Logo from "./logo/Logo";
+import Menu from "./menu/Menu";
 
 export default function NavPanel() {
 

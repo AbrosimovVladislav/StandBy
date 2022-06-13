@@ -1,6 +1,6 @@
 import React from "react";
-import Topbar from "./Topbar";
-import NavPanel from "./NavPanel";
+import Topbar from "./topbar/Topbar";
+import NavPanel from "./navpanel/NavPanel";
 
 export default function Header() {
 

@@ -2,7 +2,7 @@ const initialState = {
   menuItems: [{
     "id": 1,
     "name": "Матчи",
-    "routerLink": "competitions",
+    "routerLink": "/competitions",
   },
     {
       "id": 5,
